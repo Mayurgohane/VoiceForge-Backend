@@ -216,3 +216,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# VoiceForge local artifacts
+.env
+voiceforge.db
+*.db
+.coverage
+htmlcov/
+.ruff_cache/
+.mypy_cache/
+.pytest_cache/
+dist/
+*.egg-info/
+.DS_Store
+Thumbs.db
