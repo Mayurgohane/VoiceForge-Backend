@@ -11,7 +11,7 @@ Audio / Text  →  STT  →  Tool-calling Agent  →  TTS  →  Client
 | | |
 |---|---|
 | **Stack** | Python 3.11 · FastAPI · SQLAlchemy · Redis · Uvicorn |
-| **Voice** | Deepgram Live STT · Google TTS · Gemini (mock providers for local) |
+| **Voice** | Deepgram Live STT · Google TTS · Gemini |
 | **Telephony** | Twilio Voice + Media Streams |
 | **License** | MIT |
 
